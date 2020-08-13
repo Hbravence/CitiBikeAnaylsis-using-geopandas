@@ -1,5 +1,7 @@
 # CitiBike Exploration
 ## By Hunter Bravence
+## Packages
+> python packages I used were pandas, descartes, matplotlib, seaborn, geopandas, shapely.geometry
 
 ## Dataset
 > The dataset was over bike sharing data in New York city, the data was provided by citibank which helped fund the biks sharing, theirs is new data every month. The data that I choose to analyze was Janurary through december in 2019. I also another step of the data wrangling process was finding a geojson file of New Yorks city boroughs
